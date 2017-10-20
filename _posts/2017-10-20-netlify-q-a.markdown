@@ -9,30 +9,36 @@ As requested, these are my answers to the questions posed by Chris.
 <ul>
 
 <li>Rank your 5 favorite, and least favorite, activities from this list:<br>
-
+<a href="https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6" target="_blank">https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6</a>
 <ol>
 <h4>Favorite Activities</h4>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Respond to 60+ support requests via email or chat every day</li>
+<li>Write and maintain documentation for our software and blog posts for our website.</li>
+<li>Help manage communications during a service outage</li>
+<li>Debug a customer's build using a programming language and framework that you've never seen before</li>
+<li>Analyze thousands of support tickets to spot trends to improve our product</li>
 </ol>
 
 <ol>
 <h4>Least Favorite Activities</h4>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Find and recruit teammates for the support team</li>
+<li>Deliver a talk to many people you don't know at a conference or meetup</li>
+<li>Work with people to figure out if Netlify's service can solve a particular workflow or integration challenge they have</li>
+<li>Create video tutorials to help teach users a specific feature or use case/li>
+<li>Respond to Netlify fans on Twitter</li>
 </ol>
 
 </li>
 
-<li>What is your favorite thing about providing technical support?</li>
+<li>What is your favorite thing about providing technical support?<br>
+As mentioned in my cover letter, I really live for the puzzle.  When a customer contacts support, they are usually at their wits end.  There is nothing like being able to work through their technical issue to get to the source of the problem and bring a smile back to a customer's face.
+</li>
 
-<li>What did you think of our service during the time you used it?  Be honest!  “it sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)</li>
+<li>What did you think of our service during the time you used it?  Be honest!  “it sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)<br>
+The Netlify system is pretty slick, it's a straight forward system.  The push integration with GitHub is just awesome!
+<br><br>
+Really the only issue I had was a really minor usability one.  On the deployment pages, if you've scrolled down to look through the information, you have to scroll back to the top to find the "Back to Deploys" gray link on the black background.
+</li>
 
 <li>Tell about how you made your site and why you chose the tools you did.  Briefly explain a challenge you experienced in setting up this site and how you solved it.</li>
 
@@ -48,8 +54,3 @@ As requested, these are my answers to the questions posed by Chris.
 
 <li>(optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?</li>
 </ul>
-
-[this-list]:      https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6
-
-[Jekyll docs][jekyll]
-[jekyll]:      http://jekyllrb.com
