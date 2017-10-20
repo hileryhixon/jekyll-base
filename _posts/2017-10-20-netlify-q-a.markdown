@@ -8,8 +8,8 @@ As requested, these are my answers to the questions posed by Chris.
 <!--more-->
 <h4>Rank your 5 favorite, and least favorite, activities from this list:<br>
 <a href="https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6" target="_blank">https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6</a></h4>
-<ol>
 <h4>Favorite Activities</h4>
+<ol>
 <li>Respond to 60+ support requests via email or chat every day</li>
 <li>Write and maintain documentation for our software and blog posts for our website.</li>
 <li>Help manage communications during a service outage</li>
@@ -17,8 +17,8 @@ As requested, these are my answers to the questions posed by Chris.
 <li>Analyze thousands of support tickets to spot trends to improve our product</li>
 </ol>
 
-<ol>
 <h4>Least Favorite Activities</h4>
+<ol>
 <li>Find and recruit teammates for the support team</li>
 <li>Deliver a talk to many people you don't know at a conference or meetup</li>
 <li>Work with people to figure out if Netlify's service can solve a particular workflow or integration challenge they have</li>
