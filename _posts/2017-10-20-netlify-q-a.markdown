@@ -25,7 +25,7 @@ As requested, these are my answers to the questions posed by Chris.
 <li>Create video tutorials to help teach users a specific feature or use case/li>
 <li>Respond to Netlify fans on Twitter</li>
 </ol>
-
+<br />
 <h4>What is your favorite thing about providing technical support?</h4>
 As mentioned in my cover letter, I really live for the puzzle.  When a customer contacts support, they are usually at their wits end.  There is nothing like being able to work through their technical issue to get to the source of the problem and bring a smile back to a customer's face.
 
