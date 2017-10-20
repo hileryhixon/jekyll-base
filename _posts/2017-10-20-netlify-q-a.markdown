@@ -5,10 +5,11 @@ date:   2017-10-20 15:29:40
 categories: netlify
 ---
 As requested, these are my answers to the questions posed by Chris.
-
+<!--more-->
 <ul>
 
-<li>Rank your 5 favorite, and least favorite, activities from [this list][this-list]:
+<li>Rank your 5 favorite, and least favorite, activities from this list:<br>
+
 <ol>
 <h4>Favorite Activities</h4>
 <li></li>
@@ -18,6 +19,14 @@ As requested, these are my answers to the questions posed by Chris.
 <li></li>
 </ol>
 
+<ol>
+<h4>Least Favorite Activities</h4>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
 
 </li>
 
@@ -41,3 +50,6 @@ As requested, these are my answers to the questions posed by Chris.
 </ul>
 
 [this-list]:      https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6
+
+[Jekyll docs][jekyll]
+[jekyll]:      http://jekyllrb.com
