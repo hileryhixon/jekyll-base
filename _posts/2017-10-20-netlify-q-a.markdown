@@ -47,4 +47,3 @@ Really the only issue I had was a really minor usability one.  On the deployment
 <h4>A customer writes in saying their “site won’t build”.  Compose your best short (2-paragraph) customer-facing answer without any additional data, that could be useful in the generic case but would also lead to a customer providing a more actionable response.</h4>
 
 <h4>(optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?</h4>
-</ul>
