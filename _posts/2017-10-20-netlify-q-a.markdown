@@ -18,13 +18,13 @@ As requested, these are my answers to the questions posed by Chris.
 </ol>
 
 <h4>Least Favorite Activities</h4>
-<ol>
+<ul>
 <li>Find and recruit teammates for the support team</li>
 <li>Deliver a talk to many people you don't know at a conference or meetup</li>
 <li>Work with people to figure out if Netlify's service can solve a particular workflow or integration challenge they have</li>
 <li>Create video tutorials to help teach users a specific feature or use case/li>
 <li>Respond to Netlify fans on Twitter</li>
-</ol>
+</ul>
 <br />
 <h4>What is your favorite thing about providing technical support?</h4>
 As mentioned in my cover letter, I really live for the puzzle.  When a customer contacts support, they are usually at their wits end.  There is nothing like being able to work through their technical issue to get to the source of the problem and bring a smile back to a customer's face.
