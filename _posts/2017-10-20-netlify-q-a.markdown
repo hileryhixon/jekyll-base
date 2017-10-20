@@ -8,7 +8,7 @@ As requested, these are my answers to the questions posed by Chris.
 
 <ul>
 
-<li>Rank your 5 favorite, and least favorite, activities from [this list]:
+<li>Rank your 5 favorite, and least favorite, activities from [this list][this-list]:
 <ol>
 <h4>Favorite Activities</h4>
 <li></li>
@@ -40,6 +40,4 @@ As requested, these are my answers to the questions posed by Chris.
 <li>(optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?</li>
 </ul>
 
-[Jekyll’s dedicated Help repository][jekyll-help].
-
-[this list]:      https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6
+[this-list]:      https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6
