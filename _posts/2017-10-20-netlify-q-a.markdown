@@ -10,7 +10,7 @@ As requested, these are my answers to the questions posed by Chris.
 
 <li>Rank your 5 favorite, and least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6
 <ol>
-<lh>heading</lh>
+<h5>Favorite Activities</h5>
 <li></li>
 <li></li>
 <li></li>
