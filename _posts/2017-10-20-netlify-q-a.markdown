@@ -17,13 +17,8 @@ As requested, these are my answers to the questions posed by Chris.
 <li>Analyze thousands of support tickets to spot trends to improve our product</li>
 </ol>
 
-<h4>Least Favorite Activities</h4>
 <ol>
 <li>Find and recruit teammates for the support team</li>
-<li>Deliver a talk to many people you don't know at a conference or meetup</li>
-<li>Work with people to figure out if Netlify's service can solve a particular workflow or integration challenge they have</li>
-<li>Create video tutorials to help teach users a specific feature or use case/li>
-<li>Respond to Netlify fans on Twitter</li>
 </ol>
 
 <h4>What is your favorite thing about providing technical support?</h4>
