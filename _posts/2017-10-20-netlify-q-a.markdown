@@ -35,7 +35,7 @@ The Netlify system is pretty slick, it's a straight forward system.  The push in
 Really the only issue I had was a really minor usability one.  On the deployment pages, if you've scrolled down to look through the information, you have to scroll back to the top to find the "Back to Deploys" gray link on the black background.
 
 <h4>Tell about how you made your site and why you chose the tools you did.  Briefly explain a challenge you experienced in setting up this site and how you solved it.</h4>
-After creating my Netlify account, I used the Jekyll static site generator with the one-click deploy button.  I made a few adjustments in the site's settings file, and added a new post to create this page that you are reading right now.
+After creating my Netlify account, I used the Jekyll static site generator with the one-click deploy button.  The choice to use Jekyll was a matter of simplicity.  The one-click deploy was very easy and Ruby is easy enough to understand.  I made a few adjustments in the site's settings file, and added a new post to create this page that you are reading right now.
 
 <h4>Could you give us a suggestion to improve this test or the job posting?</h4>
 I really liked the opportunity to interact with the Netlify system as part of the test.  It would be exciting to have a little more of that.
