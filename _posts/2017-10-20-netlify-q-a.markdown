@@ -35,12 +35,17 @@ The Netlify system is pretty slick, it's a straight forward system.  The push in
 Really the only issue I had was a really minor usability one.  On the deployment pages, if you've scrolled down to look through the information, you have to scroll back to the top to find the "Back to Deploys" gray link on the black background.
 
 <h4>Tell about how you made your site and why you chose the tools you did.  Briefly explain a challenge you experienced in setting up this site and how you solved it.</h4>
+After creating my Netlify account, I used the Jekyll static site generator with the one-click deploy button.  I made a few adjustments in the site's settings file, and added a new post to create this page that you are reading right now.
 
 <h4>Could you give us a suggestion to improve this test or the job posting?</h4>
+I really liked the opportunity to interact with the Netlify system as part of the test.  It would be exciting to have a little more of that.
 
 <h4>Provide a link to documentation for a technical/developer-focused product, that you think are well done, and briefly explain why you think they are well done.</h4>
+<a href="https://docs.aerialink.net/" target="_blank">https://docs.aerialink.net/</a><br>
+I used this documentation extensively while working on a project.  Their breakdown and organization of the technical information and API coding samples were a lifesaver.  I also appreciated the tables and layouts to make information easier to digest.
 
 <h4>Why do you think SSL/HTTPS is important?</h4>
+When forming a good security plan, HTTPS is the absolute first line of defense.  By communicating over the internet with SSL, data transmission is encrypted and forms the foundation of securing information.
 
 <h4>Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users</h4>
 
