@@ -17,6 +17,7 @@ As requested, these are my answers to the questions posed by Chris.
 <li>Analyze thousands of support tickets to spot trends to improve our product</li>
 </ol>
 
+<h4>Least Favorite Activities</h4>
 <ol>
 <li>Find and recruit teammates for the support team</li>
 </ol>
