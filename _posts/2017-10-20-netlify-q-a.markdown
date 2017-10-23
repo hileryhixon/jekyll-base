@@ -20,6 +20,8 @@ As requested, these are my answers to the questions posed by Chris.
 <h4>Least Favorite Activities</h4>
 <ol>
 <li>Find and recruit teammates for the support team</li>
+<li>Deliver a talk to many people you don't know at a conference or meetup</li>
+
 </ol>
 
 <h4>What is your favorite thing about providing technical support?</h4>
