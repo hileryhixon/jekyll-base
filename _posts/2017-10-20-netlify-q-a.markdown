@@ -10,9 +10,9 @@ As requested, these are my answers to the questions posed by Chris.
 <a href="https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6" target="_blank">https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6</a></h4>
 <h4>Favorite Activities</h4>
 <ol>
-<li>Respond to 60+ support requests via email or chat every day</li>
 <li>Write and maintain documentation for our software and blog posts for our website.</li>
 <li>Help manage communications during a service outage</li>
+<li>Respond to 60+ support requests via email or chat every day</li>
 <li>Debug a customer's build using a programming language and framework that you've never seen before</li>
 <li>Analyze thousands of support tickets to spot trends to improve our product</li>
 </ol>
